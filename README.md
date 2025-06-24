@@ -13,5 +13,5 @@ This project focuses on analyzing a comprehensive marketing dataset to derive in
 ### Dataset
 The analysis is based on the baby_smile_marketing_data_with_competitors_2023_2025.xlsx Excel file, which is expected to be located in the /content/ directory if running in a Colab environment. The dataset contains 292,400 rows and 30 columns, covering marketing activities and performance from April 2023 to March 2025.
 #### Key Columns:
-- > date: Date of the record
-  > 
+- `date`: Date of the record
+- 
