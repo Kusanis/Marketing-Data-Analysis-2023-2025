@@ -62,7 +62,7 @@ To run this notebook, you'll need a Python environment with the following librar
 `git clone https://github.com/YourUsername/Baby-Smile-Marketing-Data-Analysis.git
 cd Baby-Smile-Marketing-Data-Analysis`
 - Place the dataset:
-Ensure the 'baby_smile_marketing_data_with_competitors_2023_2025.xlsx' file is placed in the same directory as the Jupyter Notebook, or update the path in the notebook accordingly. If you are using Google Colab, you might need to upload the file to your Colab environment or mount your Google Drive.
+Ensure the `baby_smile_marketing_data_with_competitors_2023_2025.xlsx` file is placed in the same directory as the Jupyter Notebook, or update the path in the notebook accordingly. If you are using Google Colab, you might need to upload the file to your Colab environment or mount your Google Drive.
 - Open the notebook:
 Launch Jupyter Notebook or JupyterLab and open `Code.ipynb`.
 - Run the cells:
