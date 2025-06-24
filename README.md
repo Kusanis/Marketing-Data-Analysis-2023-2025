@@ -59,8 +59,8 @@ To run this notebook, you'll need a Python environment with the following librar
 
 ### Usage
 - Clone the repository:
-`git clone https://github.com/YourUsername/Baby-Smile-Marketing-Data-Analysis.git
-cd Baby-Smile-Marketing-Data-Analysis`
+`git clone https://github.com/YourUsername/Marketing-Data-Analysis-2023-2025.git
+cd Marketing-Data-Analysis-2023-2025`
 - Place the dataset:
 Ensure the `Data.xlsx` file is placed in the same directory as the Jupyter Notebook, or update the path in the notebook accordingly. If you are using Google Colab, you might need to upload the file to your Colab environment or mount your Google Drive.
 - Open the notebook:
