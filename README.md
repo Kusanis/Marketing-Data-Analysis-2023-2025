@@ -14,7 +14,7 @@ This project contains a Jupyter Notebook (`Code.ipynb`) that performs an in-dept
 This project focuses on analyzing a comprehensive marketing dataset to derive insights into "Baby Smile" and its competitors' performance. The analysis includes exploring sales trends, revenue generation, and the impact of various marketing channels (e.g., TV, Radio, OOH, Meta Ads, Google Ads, Influencer Marketing) on overall business metrics. The notebook utilizes Python libraries such as Pandas for data manipulation, Matplotlib and Seaborn for data visualization, and Scikit-learn for potential linear regression modeling.
 
 ### Dataset
-The analysis is based on the `baby_smile_marketing_data_with_competitors_2023_2025.xlsx` Excel file, which is expected to be located in the `/content/` directory if running in a Colab environment. The dataset contains 292,400 rows and 30 columns, covering marketing activities and performance from April 2023 to March 2025.
+The analysis is based on the [`Data.xlsx`](https://docs.google.com/spreadsheets/d/14fy5kGVq01B6WfxL_sNk9fdqh1ROaE2B/edit?usp=sharing&ouid=114746191043386222233&rtpof=true&sd=true) Excel file, which is expected to be located in the `/content/` directory if running in a Colab environment. The dataset contains 292,400 rows and 30 columns, covering marketing activities and performance from April 2023 to March 2025.
 #### Key Columns:
 - `date`: Date of the record
 - `region`: Geographical region
@@ -62,7 +62,7 @@ To run this notebook, you'll need a Python environment with the following librar
 `git clone https://github.com/YourUsername/Baby-Smile-Marketing-Data-Analysis.git
 cd Baby-Smile-Marketing-Data-Analysis`
 - Place the dataset:
-Ensure the `baby_smile_marketing_data_with_competitors_2023_2025.xlsx` file is placed in the same directory as the Jupyter Notebook, or update the path in the notebook accordingly. If you are using Google Colab, you might need to upload the file to your Colab environment or mount your Google Drive.
+Ensure the `Data.xlsx` file is placed in the same directory as the Jupyter Notebook, or update the path in the notebook accordingly. If you are using Google Colab, you might need to upload the file to your Colab environment or mount your Google Drive.
 - Open the notebook:
 Launch Jupyter Notebook or JupyterLab and open `Code.ipynb`.
 - Run the cells:
@@ -72,4 +72,4 @@ Execute the cells sequentially to reproduce the analysis.
 Feel free to fork this repository, open issues, or submit pull requests. Any contributions to improve the analysis or add new features are welcome!
 
 ### License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
